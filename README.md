@@ -111,13 +111,12 @@ In a Zener voltage regulator, the Zener diode is connected in reverse bias in pa
 ## MODEL GRAPH
 
 ### A. Line regulation (Vin vs Vo)
-<img width="1291" height="966" alt="MODEL GRABH" src="https://github.com/user-attachments/assets/aa76e32a-f827-46f7-9aa3-017a174945a7" />
+<img width="1600" height="1095" alt="WhatsApp Image 2026-11-25 at 2 31 21 PM" src="https://github.com/user-attachments/assets/9868aa53-47dd-43de-be7e-80e872f01805" />
 
 **Figure 3:** Line regulation characteristics
 
 ### B. Load regulation (RL vs Vo)
-<img width="1385" height="1005" alt="MODEL 2" src="https://github.com/user-attachments/assets/8b66e248-c0bd-487f-be21-7f45738cd73d" />
-
+<img width="1458" height="1057" alt="WhatsApp Image 2026-11-25 at 2 32 35 PM" src="https://github.com/user-attachments/assets/3577688d-2a97-44dd-91cc-09b2a5a4380a" />
 
 **Figure 4:** Load regulation characteristics
 
