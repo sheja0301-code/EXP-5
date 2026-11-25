@@ -99,8 +99,6 @@ In a Zener voltage regulator, the Zener diode is connected in reverse bias in pa
 | 4 |400 |5.20|
 | 5 |500 |5.20 |
 | 6 |600 |5.21 |
-| 7 | | |
-| 8 | | |
 
 ## FORMULAE
 
